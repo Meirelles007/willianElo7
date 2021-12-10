@@ -26,6 +26,7 @@ public class Principal {
 
 		Cont.mostar(plano);
 
+		
 		String sentido = "W";
 
 		while (true) {
